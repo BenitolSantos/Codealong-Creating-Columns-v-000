@@ -332,7 +332,10 @@ div {
     background: rgba(255,0,0,0.75);
 }
 
-/* Z index Notes and Code*/
+/* Z index Notes and Code */
+
+/* Z index is layers from top to bottom along the Z axis */
+
 div {
     position: relative;
     width: 50px;
